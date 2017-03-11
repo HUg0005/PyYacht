@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(name='PyYacht',
-      version='0.1',
+      version='0.2',
       description='Yacht race starter',
-      url='TBA',
+      url='https://github.com/HUg0005/PyYacht',
       author='Hayden Hughes',
       author_email='mrhaydenhughes@gmail.com',
       license='MIT',
