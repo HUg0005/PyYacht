@@ -11,14 +11,14 @@ pip
 To install PyYacht:
 
 ## Windows Vista or Later:
-### 1 
+### 1. 
 Download python 3.5 or later here https://www.python.org/downloads/
 For more infomation in installing python on your platform here https://wiki.python.org/moin/BeginnersGuide/Download
 
-### 2
+### 2.
 Install PyYacht by opening the command prompt application and typing: "pip install PyYacht" (without "") then hitting enter.
 
-### 3 
+### 3.
 Run PyStart by typing "PyStart.py" (without "") in command prompt application then hitting enter.
 
 ## Update PyYacht
