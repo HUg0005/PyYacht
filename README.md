@@ -1,6 +1,7 @@
 # PyYacht
 
 A set of tools written in python to help run yacht races.
+https://pypi.python.org/pypi?name=PyYacht&:action=display
 
 ## Requirements
 python 3.5 (or later)
