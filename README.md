@@ -26,4 +26,4 @@ Run PyStart by typing "PyStart.py" (without "") in command prompt application th
 To update PyYacht type "pip install PyYacht --upgrade" (without "") into the command prompt application then hitting enter.
 
 ## Linux Notes
-On linux you may have to make the file exercuable by running "sudo chmod +x /usr/bin/PyStart.py" (without "") in the terminal.
+On linux you may have to make the file executable by running "sudo chmod +x /usr/bin/PyStart.py" (without "") in the terminal.
