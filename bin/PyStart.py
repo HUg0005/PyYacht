@@ -147,7 +147,7 @@ def error():
     fataltext = Message(errormsg, text="ERROR:", font=(None, 10))
     fataltext.pack()
     errortext = Message(errormsg,
-                        text="Have you entered the correct start time? Accepted time format is HH:MM:SS 24 hour time.")
+                        text="Have you entered the correct start time? Accepted time format is HH:MM:SS 24 hour time without the 0 in front of the hour.")
     errortext.pack()
     errorbutton = Button(errormsg, text="Dismiss", command=errormsg.destroy)
     errorbutton.pack()
